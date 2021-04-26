@@ -1,0 +1,46 @@
+C:\Users\HP\Desktop\VoiceMod\Delkebir.WebSocketChat\obj\Debug\netcoreapp2.1\Delkebir.WebSocketChat.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\VoiceMod\Delkebir.WebSocketChat\obj\Debug\netcoreapp2.1\Delkebir.WebSocketChat.AssemblyInfo.cs
+C:\Users\HP\Desktop\VoiceMod\Delkebir.WebSocketChat\obj\Debug\netcoreapp2.1\Delkebir.WebSocketChat.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\VoiceMod\Delkebir.WebSocketChat\obj\Debug\netcoreapp2.1\Delkebir.WebSocketChat.RazorAssemblyInfo.cache
+C:\Users\HP\Desktop\VoiceMod\Delkebir.WebSocketChat\obj\Debug\netcoreapp2.1\Delkebir.WebSocketChat.RazorAssemblyInfo.cs
+C:\Users\HP\Desktop\VoiceMod\Delkebir.WebSocketChat\bin\Debug\netcoreapp2.1\Delkebir.WebSocketChat.deps.json
+C:\Users\HP\Desktop\VoiceMod\Delkebir.WebSocketChat\bin\Debug\netcoreapp2.1\Delkebir.WebSocketChat.runtimeconfig.json
+C:\Users\HP\Desktop\VoiceMod\Delkebir.WebSocketChat\bin\Debug\netcoreapp2.1\Delkebir.WebSocketChat.runtimeconfig.dev.json
+C:\Users\HP\Desktop\VoiceMod\Delkebir.WebSocketChat\bin\Debug\netcoreapp2.1\Delkebir.WebSocketChat.dll
+C:\Users\HP\Desktop\VoiceMod\Delkebir.WebSocketChat\bin\Debug\netcoreapp2.1\Delkebir.WebSocketChat.pdb
+C:\Users\HP\Desktop\VoiceMod\Delkebir.WebSocketChat\obj\Debug\netcoreapp2.1\Delkebir.WebSocketChat.RazorTargetAssemblyInfo.cache
+C:\Users\HP\Desktop\VoiceMod\Delkebir.WebSocketChat\obj\Debug\netcoreapp2.1\Delkebir.WebSocketChat.dll
+C:\Users\HP\Desktop\VoiceMod\Delkebir.WebSocketChat\obj\Debug\netcoreapp2.1\Delkebir.WebSocketChat.pdb
+C:\Users\HP\Desktop\VoiceMod\Delkebir.WebSocketChat\obj\Debug\netcoreapp2.1\Delkebir.WebSocketChat.genruntimeconfig.cache
+C:\Users\HP\Desktop\VoiceMod\Delkebir.WebSocketChat\obj\Debug\netcoreapp2.1\Delkebir.WebSocketChat.csprojAssemblyReference.cache
+C:\Projects\Dina\Dina Final\Delkebir.WebSocketChat\bin\Debug\netcoreapp2.1\Delkebir.WebSocketChat.deps.json
+C:\Projects\Dina\Dina Final\Delkebir.WebSocketChat\bin\Debug\netcoreapp2.1\Delkebir.WebSocketChat.runtimeconfig.json
+C:\Projects\Dina\Dina Final\Delkebir.WebSocketChat\bin\Debug\netcoreapp2.1\Delkebir.WebSocketChat.runtimeconfig.dev.json
+C:\Projects\Dina\Dina Final\Delkebir.WebSocketChat\bin\Debug\netcoreapp2.1\Delkebir.WebSocketChat.dll
+C:\Projects\Dina\Dina Final\Delkebir.WebSocketChat\bin\Debug\netcoreapp2.1\Delkebir.WebSocketChat.pdb
+C:\Projects\Dina\Dina Final\Delkebir.WebSocketChat\obj\Debug\netcoreapp2.1\Delkebir.WebSocketChat.AssemblyInfoInputs.cache
+C:\Projects\Dina\Dina Final\Delkebir.WebSocketChat\obj\Debug\netcoreapp2.1\Delkebir.WebSocketChat.AssemblyInfo.cs
+C:\Projects\Dina\Dina Final\Delkebir.WebSocketChat\obj\Debug\netcoreapp2.1\Delkebir.WebSocketChat.RazorAssemblyInfo.cache
+C:\Projects\Dina\Dina Final\Delkebir.WebSocketChat\obj\Debug\netcoreapp2.1\Delkebir.WebSocketChat.RazorAssemblyInfo.cs
+C:\Projects\Dina\Dina Final\Delkebir.WebSocketChat\obj\Debug\netcoreapp2.1\Delkebir.WebSocketChat.RazorTargetAssemblyInfo.cache
+C:\Projects\Dina\Dina Final\Delkebir.WebSocketChat\obj\Debug\netcoreapp2.1\Delkebir.WebSocketChat.dll
+C:\Projects\Dina\Dina Final\Delkebir.WebSocketChat\obj\Debug\netcoreapp2.1\Delkebir.WebSocketChat.pdb
+C:\Projects\Dina\Dina Final\Delkebir.WebSocketChat\obj\Debug\netcoreapp2.1\Delkebir.WebSocketChat.genruntimeconfig.cache
+C:\Projects\Dina\Dina Final\Delkebir.WebSocketChat\obj\Debug\netcoreapp2.1\Delkebir.WebSocketChat.csproj.AssemblyReference.cache
+C:\Projects\Dina\Dina Final\Delkebir.WebSocketChat\obj\Debug\netcoreapp2.1\Delkebir.WebSocketChat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Dina\Dina Final\Delkebir.WebSocketChat\obj\Debug\netcoreapp2.1\Delkebir.WebSocketChat.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\Dina-Final\Delkebir.WebSocketChat\bin\Debug\netcoreapp2.1\Delkebir.WebSocketChat.deps.json
+C:\Users\HP\Downloads\Dina-Final\Delkebir.WebSocketChat\bin\Debug\netcoreapp2.1\Delkebir.WebSocketChat.runtimeconfig.json
+C:\Users\HP\Downloads\Dina-Final\Delkebir.WebSocketChat\bin\Debug\netcoreapp2.1\Delkebir.WebSocketChat.runtimeconfig.dev.json
+C:\Users\HP\Downloads\Dina-Final\Delkebir.WebSocketChat\bin\Debug\netcoreapp2.1\Delkebir.WebSocketChat.dll
+C:\Users\HP\Downloads\Dina-Final\Delkebir.WebSocketChat\bin\Debug\netcoreapp2.1\Delkebir.WebSocketChat.pdb
+C:\Users\HP\Downloads\Dina-Final\Delkebir.WebSocketChat\obj\Debug\netcoreapp2.1\Delkebir.WebSocketChat.csprojAssemblyReference.cache
+C:\Users\HP\Downloads\Dina-Final\Delkebir.WebSocketChat\obj\Debug\netcoreapp2.1\Delkebir.WebSocketChat.AssemblyInfoInputs.cache
+C:\Users\HP\Downloads\Dina-Final\Delkebir.WebSocketChat\obj\Debug\netcoreapp2.1\Delkebir.WebSocketChat.AssemblyInfo.cs
+C:\Users\HP\Downloads\Dina-Final\Delkebir.WebSocketChat\obj\Debug\netcoreapp2.1\Delkebir.WebSocketChat.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\Dina-Final\Delkebir.WebSocketChat\obj\Debug\netcoreapp2.1\Delkebir.WebSocketChat.RazorAssemblyInfo.cache
+C:\Users\HP\Downloads\Dina-Final\Delkebir.WebSocketChat\obj\Debug\netcoreapp2.1\Delkebir.WebSocketChat.RazorAssemblyInfo.cs
+C:\Users\HP\Downloads\Dina-Final\Delkebir.WebSocketChat\obj\Debug\netcoreapp2.1\Delkebir.WebSocketChat.RazorTargetAssemblyInfo.cache
+C:\Users\HP\Downloads\Dina-Final\Delkebir.WebSocketChat\obj\Debug\netcoreapp2.1\Delkebir.WebSocketChat.dll
+C:\Users\HP\Downloads\Dina-Final\Delkebir.WebSocketChat\obj\Debug\netcoreapp2.1\Delkebir.WebSocketChat.pdb
+C:\Users\HP\Downloads\Dina-Final\Delkebir.WebSocketChat\obj\Debug\netcoreapp2.1\Delkebir.WebSocketChat.genruntimeconfig.cache

@@ -1,0 +1,51 @@
+C:\Users\HP\Desktop\VoiceMod\Delkebir.WebSocketChat.Console\bin\Debug\Delkebir.WebSocketChat.Console.exe.config
+C:\Users\HP\Desktop\VoiceMod\Delkebir.WebSocketChat.Console\bin\Debug\Delkebir.WebSocketChat.Console.exe
+C:\Users\HP\Desktop\VoiceMod\Delkebir.WebSocketChat.Console\bin\Debug\Delkebir.WebSocketChat.Console.pdb
+C:\Users\HP\Desktop\VoiceMod\Delkebir.WebSocketChat.Console\obj\Debug\Delkebir.WebSocketChat.Console.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\VoiceMod\Delkebir.WebSocketChat.Console\obj\Debug\Delkebir.WebSocketChat.Console.exe
+C:\Users\HP\Desktop\VoiceMod\Delkebir.WebSocketChat.Console\obj\Debug\Delkebir.WebSocketChat.Console.pdb
+C:\Users\HP\Desktop\VoiceMod\Delkebir.WebSocketChat.Console\obj\Debug\Delkebir.WebSocketChat.Console.csprojAssemblyReference.cache
+C:\Projects\Dina\Dina Final\Delkebir.WebSocketChat.Console\bin\Debug\Delkebir.WebSocketChat.Console.exe.config
+C:\Projects\Dina\Dina Final\Delkebir.WebSocketChat.Console\bin\Debug\Delkebir.WebSocketChat.Console.exe
+C:\Projects\Dina\Dina Final\Delkebir.WebSocketChat.Console\bin\Debug\Delkebir.WebSocketChat.Console.pdb
+C:\Projects\Dina\Dina Final\Delkebir.WebSocketChat.Console\obj\Debug\Delkebir.WebSocketChat.Console.csproj.CoreCompileInputs.cache
+C:\Projects\Dina\Dina Final\Delkebir.WebSocketChat.Console\obj\Debug\Delkebir.WebSocketChat.Console.exe
+C:\Projects\Dina\Dina Final\Delkebir.WebSocketChat.Console\obj\Debug\Delkebir.WebSocketChat.Console.pdb
+C:\Projects\Dina\Dina Final\Delkebir.WebSocketChat.Console\bin\Debug\Coinbase.dll
+C:\Projects\Dina\Dina Final\Delkebir.WebSocketChat.Console\bin\Debug\Flurl.dll
+C:\Projects\Dina\Dina Final\Delkebir.WebSocketChat.Console\bin\Debug\Flurl.Http.dll
+C:\Projects\Dina\Dina Final\Delkebir.WebSocketChat.Console\bin\Debug\Newtonsoft.Json.dll
+C:\Projects\Dina\Dina Final\Delkebir.WebSocketChat.Console\bin\Debug\NLog.dll
+C:\Projects\Dina\Dina Final\Delkebir.WebSocketChat.Console\bin\Debug\Serilog.dll
+C:\Projects\Dina\Dina Final\Delkebir.WebSocketChat.Console\bin\Debug\websocket-sharp.dll
+C:\Projects\Dina\Dina Final\Delkebir.WebSocketChat.Console\bin\Debug\Coinbase.pdb
+C:\Projects\Dina\Dina Final\Delkebir.WebSocketChat.Console\bin\Debug\Coinbase.xml
+C:\Projects\Dina\Dina Final\Delkebir.WebSocketChat.Console\bin\Debug\Flurl.xml
+C:\Projects\Dina\Dina Final\Delkebir.WebSocketChat.Console\bin\Debug\Flurl.Http.xml
+C:\Projects\Dina\Dina Final\Delkebir.WebSocketChat.Console\bin\Debug\Newtonsoft.Json.xml
+C:\Projects\Dina\Dina Final\Delkebir.WebSocketChat.Console\bin\Debug\NLog.xml
+C:\Projects\Dina\Dina Final\Delkebir.WebSocketChat.Console\bin\Debug\Serilog.xml
+C:\Projects\Dina\Dina Final\Delkebir.WebSocketChat.Console\bin\Debug\websocket-sharp.xml
+C:\Projects\Dina\Dina Final\Delkebir.WebSocketChat.Console\obj\Debug\Delkebir.WebSocketChat.Console.csproj.CopyComplete
+C:\Projects\Dina\Dina Final\Delkebir.WebSocketChat.Console\obj\Debug\Delkebir.WebSocketChat.Console.csprojAssemblyReference.cache
+C:\Users\HP\Downloads\Dina-Final\Delkebir.WebSocketChat.Console\bin\Debug\Delkebir.WebSocketChat.Console.exe.config
+C:\Users\HP\Downloads\Dina-Final\Delkebir.WebSocketChat.Console\bin\Debug\Delkebir.WebSocketChat.Console.exe
+C:\Users\HP\Downloads\Dina-Final\Delkebir.WebSocketChat.Console\bin\Debug\Delkebir.WebSocketChat.Console.pdb
+C:\Users\HP\Downloads\Dina-Final\Delkebir.WebSocketChat.Console\bin\Debug\Coinbase.dll
+C:\Users\HP\Downloads\Dina-Final\Delkebir.WebSocketChat.Console\bin\Debug\Flurl.dll
+C:\Users\HP\Downloads\Dina-Final\Delkebir.WebSocketChat.Console\bin\Debug\Flurl.Http.dll
+C:\Users\HP\Downloads\Dina-Final\Delkebir.WebSocketChat.Console\bin\Debug\Newtonsoft.Json.dll
+C:\Users\HP\Downloads\Dina-Final\Delkebir.WebSocketChat.Console\bin\Debug\NLog.dll
+C:\Users\HP\Downloads\Dina-Final\Delkebir.WebSocketChat.Console\bin\Debug\Serilog.dll
+C:\Users\HP\Downloads\Dina-Final\Delkebir.WebSocketChat.Console\bin\Debug\Coinbase.pdb
+C:\Users\HP\Downloads\Dina-Final\Delkebir.WebSocketChat.Console\bin\Debug\Coinbase.xml
+C:\Users\HP\Downloads\Dina-Final\Delkebir.WebSocketChat.Console\bin\Debug\Flurl.xml
+C:\Users\HP\Downloads\Dina-Final\Delkebir.WebSocketChat.Console\bin\Debug\Flurl.Http.xml
+C:\Users\HP\Downloads\Dina-Final\Delkebir.WebSocketChat.Console\bin\Debug\Newtonsoft.Json.xml
+C:\Users\HP\Downloads\Dina-Final\Delkebir.WebSocketChat.Console\bin\Debug\NLog.xml
+C:\Users\HP\Downloads\Dina-Final\Delkebir.WebSocketChat.Console\bin\Debug\Serilog.xml
+C:\Users\HP\Downloads\Dina-Final\Delkebir.WebSocketChat.Console\obj\Debug\Delkebir.WebSocketChat.Console.csprojAssemblyReference.cache
+C:\Users\HP\Downloads\Dina-Final\Delkebir.WebSocketChat.Console\obj\Debug\Delkebir.WebSocketChat.Console.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\Dina-Final\Delkebir.WebSocketChat.Console\obj\Debug\Delkebir.WebSocketChat.Console.csproj.CopyComplete
+C:\Users\HP\Downloads\Dina-Final\Delkebir.WebSocketChat.Console\obj\Debug\Delkebir.WebSocketChat.Console.exe
+C:\Users\HP\Downloads\Dina-Final\Delkebir.WebSocketChat.Console\obj\Debug\Delkebir.WebSocketChat.Console.pdb

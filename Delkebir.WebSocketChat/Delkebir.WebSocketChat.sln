@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Delkebir.WebSocketChat", "Delkebir.WebSocketChat.csproj", "{23CD04BB-A2A1-4C70-A092-C8236AECCF63}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Delkebir.WebSocketChat.Console", "..\Delkebir.WebSocketChat.Console\Delkebir.WebSocketChat.Console.csproj", "{FAED8DDD-CCC3-4B36-B9A9-DB5185746299}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{23CD04BB-A2A1-4C70-A092-C8236AECCF63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23CD04BB-A2A1-4C70-A092-C8236AECCF63}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23CD04BB-A2A1-4C70-A092-C8236AECCF63}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23CD04BB-A2A1-4C70-A092-C8236AECCF63}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FAED8DDD-CCC3-4B36-B9A9-DB5185746299}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAED8DDD-CCC3-4B36-B9A9-DB5185746299}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAED8DDD-CCC3-4B36-B9A9-DB5185746299}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAED8DDD-CCC3-4B36-B9A9-DB5185746299}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B2945BDF-CC41-4739-8A92-E71936961BB9}
+	EndGlobalSection
+EndGlobal
